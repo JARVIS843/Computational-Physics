@@ -1,0 +1,3 @@
+# Computational-Physics
+
+This is a public repo of the homeworks of Computatinoal Physics Course published by Jarvis. IDK why I created this...
